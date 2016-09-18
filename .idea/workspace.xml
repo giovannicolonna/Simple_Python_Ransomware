@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84bf2d37-6fe3-4f4b-b069-fa1e86a083ec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SimpleRansomware/.idea/SimpleRansomware.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SimpleRansomware/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SimpleRansomware/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SimpleRansomware/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SimpleRansomware/simpleransomware.py" />
-    </list>
+    <list default="true" id="84bf2d37-6fe3-4f4b-b069-fa1e86a083ec" name="Default" comment="" />
     <ignored path="First.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -306,6 +300,14 @@
       <option name="presentableId" value="Default" />
       <updated>1473955514471</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1474201562827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1474201562827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
