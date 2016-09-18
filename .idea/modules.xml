@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/PycharmProjects/SimpleRansomware/.idea/First.iml" filepath="$USER_HOME$/PycharmProjects/SimpleRansomware/.idea/First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/First.iml" filepath="$PROJECT_DIR$/.idea/First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SimpleRansomware.iml" filepath="$PROJECT_DIR$/.idea/SimpleRansomware.iml" />
     </modules>
   </component>
 </project>

